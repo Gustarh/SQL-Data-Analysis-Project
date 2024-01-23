@@ -105,13 +105,7 @@ FROM order_details
 ```
 
 - Customer Analysis:
-The Average Sales Order was used as a threshold value to determine the Top/Key customers
-- The Average Sales/Revenue
-```sql
-SELECT ROUND(AVG(revenue),0) AS Avg_revenue
-FROM order_details
-```
-Hence, The Key Customer 
+- The Average Sales Order was used as a threshold value to determine the Top/Key customers
 ```sql
 SELECT o.customer_id,od.revenue
 FROM orders o
