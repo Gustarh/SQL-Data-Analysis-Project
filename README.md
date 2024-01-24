@@ -3,7 +3,7 @@
 ### Dataset Overview
 
 Northwind Dataset is about a company named "Northwind Traders" that imports and exports specialty 
-foods from around the world. It contains the following detailed information:
+foods from around the world. It contains the following detailed information between 1996-1998:
 
 - Suppliers/Vendors of Northwind -who supply to the company.
 - Customers of Northwind- who buy from Northwind.
@@ -41,7 +41,8 @@ The dataset was thoroughly explored and it was discovered that the dataset conta
 - Suppliers: 29 rows and 12 columns
 - Territories: 53 rows and 3 columns
 
-Null values were discovered in a number of Region Columns, Postal_Code and Fax Columns. Redundant and irrelevant columns were also discovered.
+Null values were discovered in a number of Columns. 
+Redundant and irrelevant columns were also discovered.
 
 ### DATA CLEANING AND PROCESSING:
 This was done with PostgreSQL.
@@ -53,7 +54,7 @@ Picture column in Categories Table, Photo column in Employee Table and Homepage 
 A new Revenue column was created in the Order Details Table using the formula, unit price*quantity to populate the new column.
 
 ### ANALYSIS:
-The Key Performance Indicators were outlined as follows:
+The Key Performance Indicators are as follows:
 - Total Customers
 ```sql
 SELECT COUNT(DISTINCT customer_id) AS Total_Customer 
@@ -168,6 +169,27 @@ FROM orders
 ORDER BY freight DESC
 LIMIT 10
 ```
+
+### KEY FINDINGS AND INSIGHTS:
+
+- The Total Customer between was 91
+- The Total Order was 830
+- The Total Revenue is $1,354,459
+- The Total Product is 77
+- The Total Quantity Sold is 51,317
+- The Average Revenue is $629
+- There was a drop in sale in 1998, this could be due to poor market strategy.The company experienced poor quality sale compared to high quality sale
+- The key/Top 3 customers are HANAR, QUICK and PICCO
+- The top product is Cote de Blaye while the bottom products are Konbu, Teatime Chocolate Biscuit and Filo Mix
+- The most order originated from Germany and Brazil while the least orders originated from UK and Spain
+- The Order with ID, 10540 has the most expensive freight of 1008.
+
+
+### RECOMMENDATIONs
+- There should be an improvement in the marketing strategy. More advert should be made to create awareness for the
+company and to improve the business sale.
+- The sale channel for the least selling products should be enhanced and the quality of the most selling should be sustained.
+- A research/finding should be carried out on why a product is demanded more by a country compared to another. This would be used to determine strategicsolution for the least wanted product.
 
 
 
