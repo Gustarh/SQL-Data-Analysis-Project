@@ -1,5 +1,16 @@
 # DATA CLEANING AND ANALYSIS IN SQL USING THE NORTHWIND DATASET
 
+### PROJECT PLAN
+- [Dataset Overview](#dataset-overview)
+- [Poject Goals and Objectives](#project-goal-and-objectives)
+- [Data Source](#data-source)
+- [Data Preparation and Exploration](#data-preparation-and-exploration)
+- [DAta Cleaning and Processing](#data-cleaning-and-processing)
+- [Data Limitation](#data-limitation)
+- [Data Analysis](#data-analysis)
+- [Key Findings and Insigts](#key-findings-and-insights)
+- [Recommendations](#recommendations)
+
 ### Dataset Overview
 
 Northwind Dataset is about a company named "Northwind Traders" that imports and exports specialty 
@@ -51,10 +62,12 @@ The Numeric Null columns like Fax and postal_code columns were replaced with 0.
 
 Picture column in Categories Table, Photo column in Employee Table and Homepage Column in Suppliers Table were deleted as they were redundant and irrelevant to the analysis.
 
-### LIMITATION
-A new Revenue column was created in the Order Details Table and the formula, unit price*quantity was used to populate the new column.
 
-### ANALYSIS:
+### DATA LIMITATION
+A new Revenue column was created in the Order Details Table and the formula, unit price*quantity was used to populate the new column. This was necessary for my analysis.
+
+
+### DATA ANALYSIS:
 The Key Performance Indicators are as follows:
 - Total Customers
 ```sql
@@ -186,7 +199,7 @@ LIMIT 10
 - The Order with ID, 10540 has the most expensive freight of 1008.
 
 
-### RECOMMENDATIONs
+### RECOMMENDATIONS
 - There should be an improvement in the marketing strategy. More advert should be made to create awareness for the
 company and to improve the business sale.
 - The sale channel for the least selling products should be enhanced and the quality of the most selling should be sustained.
