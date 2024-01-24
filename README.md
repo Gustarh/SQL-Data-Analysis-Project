@@ -51,7 +51,8 @@ The Numeric Null columns like Fax and postal_code columns were replaced with 0.
 
 Picture column in Categories Table, Photo column in Employee Table and Homepage Column in Suppliers Table were deleted as they were redundant and irrelevant to the analysis.
 
-A new Revenue column was created in the Order Details Table using the formula, unit price*quantity to populate the new column.
+### LIMITATION
+A new Revenue column was created in the Order Details Table and the formula, unit price*quantity was used to populate the new column.
 
 ### ANALYSIS:
 The Key Performance Indicators are as follows:
