@@ -190,7 +190,7 @@ LIMIT 10
 - There should be an improvement in the marketing strategy. More advert should be made to create awareness for the
 company and to improve the business sale.
 - The sale channel for the least selling products should be enhanced and the quality of the most selling should be sustained.
-- A research/finding should be carried out on why a product is demanded more by a country compared to another. This would be used to determine strategicsolution for the least wanted product.
+- A research/finding should be carried out on why a product is demanded more by a country compared to another. This would be used to determine a strategic solution for the least wanted product.
 
 
 
