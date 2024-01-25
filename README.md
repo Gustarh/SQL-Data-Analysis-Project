@@ -8,7 +8,7 @@
 - [DAta Cleaning and Processing](#data-cleaning-and-processing)
 - [Data Limitation](#data-limitation)
 - [Data Analysis](#data-analysis)
-- [Data Visualization](#data visualization)
+- [Data Visualization](#data-visualization)
 - [Key Findings and Insigts](#key-findings-and-insights)
 - [Recommendations](#recommendations)
 
