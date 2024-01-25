@@ -188,7 +188,8 @@ LIMIT 10
 ### DATA VISUALIZATION
 The insights that were discovered in the analysis were visualized with Power bi in a dashboard as seen below:
 
-![Northwind Dashboard](https://github.com/Gustarh/SQL-Data-Analysis-Project/assets/142215382/40ca64d2-1ff0-4a26-a7f5-5051213db5b5)
+![Ntd](https://github.com/Gustarh/SQL-Data-Analysis-Project/assets/142215382/6f73abb2-bfd3-441a-829c-f41e1dcb2db8)
+
 
 
 
