@@ -188,6 +188,7 @@ LIMIT 10
 ### DATA VISUALIZATION
 The insights that were discovered in the analysis were visualized with Power bi in a dashboard as seen below:
 
+![Dashboard](north dash)
 
 
 
