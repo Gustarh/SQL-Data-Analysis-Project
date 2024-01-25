@@ -5,11 +5,11 @@
 - [Poject Goals and Objectives](#project-goal-and-objectives)
 - [Data Source](#data-source)
 - [Data Preparation and Exploration](#data-preparation-and-exploration)
-- [DAta Cleaning and Processing](#data-cleaning-and-processing)
+- [Data Cleaning and Processing](#data-cleaning-and-processing)
 - [Data Limitation](#data-limitation)
 - [Data Analysis](#data-analysis)
 - [Data Visualization](#data-visualization)
-- [Key Findings and Insigts](#key-findings-and-insights)
+- [Key Findings and Insights](#key-findings-and-insights)
 - [Recommendations](#recommendations)
 
 ### Dataset Overview
