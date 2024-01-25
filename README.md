@@ -190,6 +190,7 @@ The insights that were discovered in the analysis were visualized with Power bi 
 
 
 
+
 ### KEY FINDINGS AND INSIGHTS:
 
 - The Total Customer between was 91
