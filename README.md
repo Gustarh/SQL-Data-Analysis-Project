@@ -8,6 +8,7 @@
 - [DAta Cleaning and Processing](#data-cleaning-and-processing)
 - [Data Limitation](#data-limitation)
 - [Data Analysis](#data-analysis)
+- [Data Visualization](#data visualization)
 - [Key Findings and Insigts](#key-findings-and-insights)
 - [Recommendations](#recommendations)
 
@@ -183,6 +184,10 @@ FROM orders
 ORDER BY freight DESC
 LIMIT 10
 ```
+
+### DATA VISUALIZATION
+The insights that were discovered in the analysis were visualized with Power bi in a dashboard as seen below:
+
 
 ### KEY FINDINGS AND INSIGHTS:
 
