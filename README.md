@@ -189,6 +189,7 @@ LIMIT 10
 The insights that were discovered in the analysis were visualized with Power bi in a dashboard as seen below:
 
 
+
 ### KEY FINDINGS AND INSIGHTS:
 
 - The Total Customer between was 91
