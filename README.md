@@ -202,7 +202,7 @@ The insights that were discovered in the analysis were visualized with Power bi 
 - The Total Product is 77
 - The Total Quantity Sold is 51,317
 - The Average Revenue is $629
-- There was a drop in sale in 1998, this could be due to poor market strategy.The company experienced poor quality sale compared to high quality sale
+- There sale peaked in 1997 and there was also a subsequent fall in 1998, this could be due to poor market strategy or economic challenge.The company experienced poor quality sale compared to high quality sale
 - The key/Top 3 customers are HANAR, QUICK and PICCO
 - The top product is Cote de Blaye while the bottom products are Konbu, Teatime Chocolate Biscuit and Filo Mix
 - The most order originated from Germany and Brazil while the least orders originated from UK and Spain
